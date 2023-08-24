@@ -37,7 +37,7 @@ Enter `git branch` to see if the branch was created. You should see the followin
   red_links
 ```
 
-This means that you are currently editing the `orange_links` branch.
+This means that you are currently editing the `orange_links` branch..
 
 Now edit the `style.css` file and change the colour of the links in your messages to `orangered`. Check to see if the links have changed colour. If they have, then add and commit your changes.
 
